@@ -1,4 +1,4 @@
-# Digital Innovation One - Prática .NET
+# .NET
 
 ## Criando uma APP de cadastro em memória
 
